@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Luke Barnes
+- 👀 I'm interested in general software development as well as media such as design and games
 - 🌱 I’m currently learning C++ and Data Structures/Algorithms
 - 📫 How to reach me: www.linkedin.com/in/luke-barnes-2496b2185
