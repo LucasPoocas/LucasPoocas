@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Luke Barnes
 - 👀 I'm interested in general software development as well as computer graphics, game art, and game programming
-- 🌱 I’m currently learning C# and Unity
+- 🌱 I’m currently learning C#, Unity, and AWS Cloud Foundations
 - 📫 How to reach me: www.linkedin.com/in/luke-barnes-2496b2185
